@@ -8,6 +8,7 @@ body{
 	margin:0;
 	padding:0;
 	color:#94a3a8;
+	overflow-x:hidden;
 	}
 	
 strong,b{
