@@ -1,0 +1,274 @@
+@charset "utf-8";
+/* CSS Document */
+.button1
+{
+	width: 50%;
+	margin: auto;
+	padding: auto;
+}
+.buttonstyle
+{
+	width: 200px;
+}
+.buttoncolor
+{
+	background-color: #754F44;
+}
+.buttonstyle:hover
+{	-moz-transform:scale(1.05);
+	-webkit-transform:scale(1.05);
+	-o-transform:scale(1.05);
+	-ms-transform:scale(1.05);
+	transform:scale(1.05);
+	z-index:2;
+}
+.backgroundgradient
+{
+	opacity: 0.5;
+}
+.boxstyle
+{
+
+	margin: auto;
+	padding: auto;
+	width: 50%;
+	height: 500px;
+	min-width: 400px;
+	opacity: 0.85;
+
+}
+.mainboxstyle
+{
+	width: 100%;
+	margin: auto;
+	padding: auto;
+
+}
+.logotitle
+{
+	width: 100%;
+}
+.boxheight
+{
+	min-height: 330px;
+}
+.boxfontcolor
+{
+	color: #000;
+}
+.fontcolor
+{
+	color: #FFF;
+}
+.fontcolor2
+{
+	color: #000;
+}
+.fontstyle
+{
+	font-size: 60px;
+}
+.fontstyle1
+{
+	font-size: 24px;
+	line-height:24px;
+}
+.fontstyle2
+{
+	font-size: 18px;
+}
+.menubarsize
+{
+	position: fixed;
+	width: 50px;
+
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 50%;
+  position: relative;
+  transition: all 5s ease-in-out;
+  z-index: 1;
+}
+
+
+
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 85%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
+.maincontainer
+{
+	background-color: #FFF;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.containermargin
+{
+	margin-top: -80px;
+}
+
+.textfield
+{
+	border-radius:5px 5px;
+}
+.textfield:focus
+{
+	outline:none;
+}
+
+.col-md-employer
+{
+	width: 50%;
+	position: relative;
+	float: left;
+ 	 min-height: 1px;
+ 	 padding-right: 10px;
+ 	 padding-left: 10px;
+
+}
+.boxwidth
+{
+	width: auto;
+}
+.col-md-box
+{
+	width: 90%;
+	background-color: #FFF;
+	border-color: #f15c5c;
+	color: #333;
+
+}
+.tablecolor
+{
+
+	border: 3px solid #f15c5c;
+	margin:auto;
+}
+.tabletext
+{
+	padding-left: 30px;
+}
+.tablefont
+{
+	font-size:30px;
+}
+.tablefont2
+{
+	font-size: 18px;
+}
+.boxadmin
+{
+	margin:auto;
+	padding: auto;
+	width: 50%;
+	height: 500px;
+	min-width: 400px;
+	opacity: 0.85;
+
+}
+.style-2::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+.style-2::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+.style-2::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #D62929;
+}
+.popupstyle
+{
+	width:70%;
+	height:85%
+}
+.box1{
+  position: relative;
+  height: 130px;
+  width: 705px;
+  display: block;
+  float: left;
+}
+
+.box2{
+  position: relative;
+  height: 65px;
+  width: 200px;
+  display: block;
+  overflow: hidden;
+}
+
+.box3{
+  position: relative;
+  height: 65px;
+  width: 200px;
+  display: block;
+  overflow: hidden;
+
+}
+.box4
+{
+	margin-bottom:20px;
+	width:100%;
+	height:100%;
+}

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Jobseeker_ID;datatype:int,name:Username;datatype:string,name:Password;datatype:string,name:Pictures;datatype:blob,name:First_Name;datatype:string,name:Last_Name;datatype:string,name:DoB;datatype:date,name:Gender;datatype:string,name:Jobseeker_Email;datatype:string,name:Jobseeker_PhoneNumber;datatype:string,name:Jobseeker_Address;datatype:string,name:City;datatype:string,name:State;datatype:string,name:Post_Code;datatype:int,name:Country;datatype:string,name:Nationality;datatype:string,name:About_Me;datatype:string,name:Job_Role;datatype:string,name:Skills_Certificate;datatype:string,name:Type_Of_Employment;datatype:string,name:Salary;datatype:real" />
+</info>

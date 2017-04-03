@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Employer_ID;datatype:int,name:Company_Address;datatype:string,name:Company_Email;datatype:string,name:Company_PhoneNumber;datatype:string,name:SSM_No;datatype:string,name:Username;datatype:string,name:Password;datatype:string,name:Company_Pictures;datatype:blob,name:Company_Details;datatype:string,name:Establishment;datatype:year,name:City;datatype:string,name:States;datatype:string,name:Post_Code;datatype:int,name:Country;datatype:string,name:Industries;datatype:string,name:Hiring_Skills;datatype:string,name:Company_Websites;datatype:string" />
+</info>
